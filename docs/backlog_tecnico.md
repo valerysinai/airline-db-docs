@@ -4,6 +4,8 @@
 **Herramienta sugerida:** GitHub Projects / Jira / Trello  
 
 ---
+## Link del Trello (Backlong realizado)
+https://trello.com/invite/b/69e4690fece79440d8dd4bcf/ATTI28b27599d527053140f777e6279f5dfd26283F0B/airline-db-project
 
 ## Historias de Usuario
 
@@ -23,7 +25,7 @@ Como equipo técnico, necesito analizar el archivo `modelo_postgresql.sql` e ide
 
 ### HU-002 — Organizar la estructura base del repositorio y definir ramas develop, qa y main
 - **Prioridad:** Alta  
-- **Estado:** En progreso  
+- **Estado:** Completado  
 
 **Descripción:**  
 Como equipo técnico, necesito crear y organizar el repositorio del proyecto con la estructura de carpetas definida y las ramas de trabajo, para garantizar un flujo de versionamiento controlado y ordenado.
@@ -131,8 +133,8 @@ Como equipo técnico, necesito mantener un registro actualizado de las decisione
 | ID Historia | Descripción                                      | Prioridad | Estado        |
 |------------|--------------------------------------------------|----------|--------------|
 | HU-001     | Identificar y documentar dominios funcionales    | Alta     | Completado   |
-| HU-002     | Organizar repositorio y definir ramas            | Alta     | En progreso  |
-| HU-003     | Contenerizar PostgreSQL                          | Alta     | Pendiente    |
+| HU-002     | Organizar repositorio y definir ramas            | Alta     | Completado  |
+| HU-003     | Contenerizar PostgreSQL                          | Alta     | En progreso    |
 | HU-004     | Contenerizar Liquibase e integrarlo              | Alta     | Pendiente    |
 | HU-005     | Separar DDL en changelogs por dominio            | Alta     | Pendiente    |
 | HU-006     | Estrategia de roles y permisos                   | Media    | Pendiente    |

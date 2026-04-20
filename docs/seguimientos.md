@@ -21,7 +21,7 @@ Cada sesión de trabajo debe registrarse con la siguiente estructura:
 
 ## SESIÓN 01 — Prueba supervisada
 
-- **Fecha:** 18/04/2026  
+- **Fecha:** 14/04/2026  
 - **Duración:** 5 horas  
 - **Tipo:** Prueba supervisada  
 
@@ -57,87 +57,21 @@ Cada sesión de trabajo debe registrarse con la siguiente estructura:
 - Iniciar migración del DDL a Liquibase por dominio (HU-005)
 - Esperar script de datos del instructor (HU-007)
 
----
 
-## SESIÓN 02 — Trabajo desescolarizado
-
-- **Fecha:** (pendiente)  
-- **Duración:** (pendiente)  
-- **Tipo:** Trabajo desescolarizado  
-
-### Actividades realizadas
-_(Registrar durante la sesión)_
-
-### Decisiones tomadas
-_(Registrar durante la sesión)_
-
-### Problemas encontrados
-_(Registrar durante la sesión)_
-
-### Próximos pasos
-_(Registrar durante la sesión)_
-
----
-
-## SESIÓN 03 — Trabajo desescolarizado
-
-- **Fecha:** (pendiente)  
-- **Duración:** (pendiente)  
-- **Tipo:** Trabajo desescolarizado  
-
-### Actividades realizadas
-_(Registrar durante la sesión)_
-
-### Decisiones tomadas
-_(Registrar durante la sesión)_
-
-### Problemas encontrados
-_(Registrar durante la sesión)_
-
-### Próximos pasos
-_(Registrar durante la sesión)_
-
----
-
-## SESIÓN 04 — Trabajo desescolarizado
-
-- **Fecha:** (pendiente)  
-- **Duración:** (pendiente)  
-- **Tipo:** Trabajo desescolarizado  
-
-### Actividades realizadas
-_(Registrar durante la sesión)_
-
-### Decisiones tomadas
-_(Registrar durante la sesión)_
-
-### Problemas encontrados
-_(Registrar durante la sesión)_
-
-### Próximos pasos
-_(Registrar durante la sesión)_
-
----
 
 ## Registro de decisiones arquitectónicas (ADR)
 
 | ID      | Título                                                        | Estado     | Fecha       |
 |--------|---------------------------------------------------------------|-----------|------------|
-| ADR-001 | Incorporación del dominio de Notificaciones y Comunicaciones | Propuesto | 14/04/2026 |
-| ADR-002 | Estrategia de roles y permisos (RBAC)                        | Propuesto | 14/04/2026 |
-| ADR-003 | Implementación de Liquibase para DDL                         | Propuesto | 14/04/2026 |
-| ADR-004 | Estrategia de versionamiento (develop, qa, main)             | Propuesto | 14/04/2026 |
-| ADR-005 | Contenedorización con Docker Compose                         | Propuesto | 14/04/2026 |
+| ADR-001 | Incorporación del dominio de Notificaciones y Comunicaciones | Completado| 14/04/2026 |
+| ADR-002 | Estrategia de roles y permisos (RBAC)                        | Completado | 14/04/2026 |
+| ADR-003 | Implementación de Liquibase para DDL                         | Completado | 14/04/2026 |
+| ADR-004 | Estrategia de versionamiento (develop, qa, main)             | Completado | 14/04/2026 |
+| ADR-005 | Contenedorización con Docker Compose                         | Completado | 14/04/2026 |
 
 ---
 
-## Registro de incidencias técnicas
 
-| Fecha | Descripción | Impacto | Resolución |
-|------|------------|--------|-----------|
-| _(pendiente)_ | | | |
-
----
 
 ## Estado general del proyecto
 
@@ -149,10 +83,10 @@ _(Registrar durante la sesión)_
 | `plan_trabajo_inicial.md`              | ✅ Completado |
 | `seguimientos.md`                      | ✅ Completado |
 | ADR-001 a ADR-005                      | ✅ Completado |
-| Estructura repositorio proyecto        | 🔄 En progreso |
-| `docker-compose.yml`                   | ⏳ Pendiente |
-| Changelogs DDL por dominio             | ⏳ Pendiente |
-| Changelogs DCL roles y permisos        | ⏳ Pendiente |
-| Scripts DML datos de prueba            | ⏳ Pendiente |
+| Estructura repositorio proyecto        | ✅ Completado |
+| `docker-compose.yml`                   | ✅ Completado |
+| Changelogs DDL por dominio             | ✅ Completado |
+| Changelogs DCL roles y permisos        | ✅ Completado |
+| Scripts DML datos de prueba            | ✅ Completado |
 
 ---

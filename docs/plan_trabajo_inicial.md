@@ -25,7 +25,7 @@ Dejar estructurada la base técnica y documental del proyecto a partir del anál
 | 6 | Elaboración del `backlog_tecnico.md` con HU-001 a HU-008                | Completado   |
 | 7 | Elaboración del `plan_datos_prueba.md`                                  | Completado   |
 | 8 | Documentación de los 5 ADR requeridos                                   | Completado   |
-| 9 | Inicio de la estructura base del proyecto con Liquibase                 | En progreso  |
+| 9 | Inicio de la estructura base del proyecto con Liquibase                 | Completado  |
 | 10| Elaboración del presente plan de trabajo                                | Completado   |
 
 ---
